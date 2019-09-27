@@ -34,6 +34,7 @@ Request Format:
 used to request Authorization Bearer Token
 
 Request Format using  x-www-form-urlencoding parameters including:
+
 | key  | value |
 | ------------- | ------------- |
 | grant_type  | Should always be "password" without quotes  |
